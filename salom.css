@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div{
+    width: 100%;
+}
+.registercard{
+    width: 34%;
+    height: 270px;
+    margin: 0 auto;
+    margin-top: 120px;
+    
+}
+.registercard input{
+     margin: 0 auto;
+     margin-left: 65px;
+     height: 30px;
+     margin-top: 20px;
+}
+.div input{
+    width: 300px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.registercard h1{
+text-align: center;
+    margin-top: 10px;
+font-family: sans-serif;
+}
+.btn button{
+    width: 100px;
+    margin-left: 3px;
+    height: 30px;
+}
+.btn{
+    margin-left: 63px;
+    margin-top: 5px;
+}
+.btn button{
+    border: none;
+}
+.s {
+    background-color: rgb(95, 158, 0);
+    color: aliceblue;
+}
+.q{
+    background-color: red;
+    color: aliceblue;
+}
+.hehe {
+    margin-top: 110px;
+    font-family: sans-serif;
+}
+.new {
+    width: 34%;
+    height: 200px;
+    border: 1px rgb(155, 155, 155) solid;
+    margin: 0 auto;
+    border-top: none;
+    margin-top: -20px;
+}
